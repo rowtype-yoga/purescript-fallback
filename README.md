@@ -2,7 +2,9 @@
 
 Idris-style fallback for do comprehensions.
 
-## installation
+`purescript-fallback` allows you to short-circuit a do-comprehension. 
+
+## Installation
 
 ```bash
 spago install fallback
